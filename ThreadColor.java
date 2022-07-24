@@ -1,6 +1,7 @@
 package com.cihan;
 
 public class ThreadColor {
+    // just some colors to differentiate the thread logs.  
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
     public static final String ANSI_RED = "\u001B[31m";
